@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Render Preset Manager (.blend Library Browser)",
-    "author": "ChatGPT",
+    "author": "Zekeriya AYAN",
     "version": (2, 5, 0),
     "blender": (4, 5, 0),
     "location": "Render Properties > Presets",
